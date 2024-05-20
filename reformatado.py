@@ -22,6 +22,7 @@ def exibir_favoritos():
     print(file.read())
     file.close()
     return
+
 def exibir_ingrediente():
     ingrediente = input("Digite o ingrediente do qual deseja ver as receitas: ")
 
@@ -152,8 +153,10 @@ Como deseja exibir as receitas?
 
         elif funcionalidade_exibir == "4":
             exibir_aleatorio()
+
         elif funcionalidade_exibir == "5":
             exibir_ingrediente()
+            
         elif funcionalidade_exibir == "X" or funcionalidade_exibir == "x":
             print("========================================================")        
 
