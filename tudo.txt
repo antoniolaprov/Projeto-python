@@ -1,0 +1,30 @@
+alemanha|salsicha com chucrute|cozinhe as salsichas em agua fervente por 10 minutos. sirva com chucrute aquecido
+alemanha|eisbein|cozinhe o joelho de porco em agua com temperos por varias horas. sirva com batatas e chucrute
+alemanha|pretzel|prepare a massa e molde em formato de pretzel. asse ate dourar
+brasil|feijoada|cozinhe o feijao preto com carnes defumadas e frescas. sirva com arroz, couve e laranja
+brasil|brigadeiro|misture leite condensado, manteiga e chocolate em po. cozinhe ate engrossar e enrole em bolinhas
+brasil|pao de queijo|misture polvilho, queijo e ovos. asse ate dourar
+estados unidos|hamburguer|grelhe o hamburguer ate o ponto desejado. monte no pao com queijo, alface, tomate e condimentos
+estados unidos|mac and cheese|cozinhe o macarrao e misture com molho de queijo. asse ate dourar
+estados unidos|apple pie|prepare a massa e recheie com macas temperadas. asse ate a massa dourar
+japao|sushi|prepare o arroz de sushi e enrole com peixe fresco e vegetais em nori
+japao|tempura|empane e frite legumes e frutos do mar em massa leve
+japao|ramen|cozinhe macarrao em caldo temperado e sirva com carne e vegetais
+franca|quiche lorraine|asse a massa com bacon, ovos e creme de leite. sirva quente
+franca|croissant|prepare a massa folhada e asse em formato de croissant
+franca|ratatouille|cozinhe legumes em camadas com molho de tomate
+italia|pizza margherita|asse a massa com molho de tomate, queijo mussarela e manjericao fresco
+italia|lasagna|intercale camadas de massa, molho de carne e queijo. asse ate borbulhar
+italia|risotto|cozinhe o arroz com caldo, vinho branco e queijo parmesao ate ficar cremoso
+mexico|tacos|cozinhe a carne moida com temperos. sirva em tortilhas com guacamole, salsa e queijo
+mexico|guacamole|amasse abacates e misture com cebola, tomate, limao e coentro
+mexico|enchiladas|recheie tortilhas com frango, enrole e cubra com molho. asse ate aquece
+india|curry de frango|cozinhe o frango com especiarias e leite de coco. sirva com arroz basmati
+india|samosa|recheie a massa com batatas e ervilhas temperadas. frite ate dourar
+india|naan|asse o pao naan ate dourar, servindo quente
+china|arroz frito|frite o arroz cozido com legumes, ovos e molho de soja
+china|dumplings|recheie a massa com carne e legumes, e cozinhe no vapor
+china|pato a pequim|asse o pato ate a pele ficar crocante. sirva com panquecas e molho hoisin
+espanha|paella|cozinhe o arroz com acafrao, frutos do mar, frango e legumes
+espanha|tortilla espanhola|frite batatas e cebolas, e misture com ovos. cozinhe ate firmar
+espanha|gazpacho|misture tomates, pimentoes, pepino e alho, e sirva frio
