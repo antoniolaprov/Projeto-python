@@ -7,7 +7,7 @@ def exibir_tudo():
     return
 
 def exibir_por_pais():
-    pais = input("digite o pais do qual deseja ver as receitas: ")
+    pais = input("digite o pais do qual deseja ver as receitas: ").lower()
             
     file = open("tudo.txt", "r")
             
@@ -23,7 +23,7 @@ def exibir_favoritos():
     file.close()
     return
 def exibir_ingrediente():
-    ingrediente = input("Digite o ingrediente do qual deseja ver as receitas: ")
+    ingrediente = input("Digite o ingrediente do qual deseja ver as receitas: ").lower()
 
     file = open("tudo.txt", "r")
 
@@ -47,9 +47,9 @@ def exibir_aleatorio():
     return
 
 def alterar_adicionar():
-    pais = input("Digite o país de origem da nova receita: ")
-    nome = input("Digite o nome da receita: ")
-    preparo = input("Digite o preparo da receita com os ingredientes: ")
+    pais = input("Digite o país de origem da nova receita: ").lower()
+    nome = input("Digite o nome da receita: ").lower()
+    preparo = input("Digite o preparo da receita com os ingredientes: ").lower()
     novareceita = (f"{pais}|{nome}|{preparo}\n")
             
     file = open("tudo.txt", "a")
@@ -81,7 +81,7 @@ deseja continuar adicionando?
     return
 
 def alterar_remover():
-    receita = input ("Digite o nome da receita que irá ser removida: ")
+    receita = input ("Digite o nome da receita que irá ser removida: ").lower()
             
     file = open("tudo.txt", "r")
     linhas = file.readlines()
@@ -106,7 +106,7 @@ def alterar_remover():
     file_remover.close()                         
     return
 def alterar_editar():
-    receita = input("Digite qual receita será editada: ")
+    receita = input("Digite qual receita será editada: ").lower()
     file = open("tudo.txt", "r")
     file_ler = file.readlines()
     file.close()
@@ -115,9 +115,9 @@ def alterar_editar():
     for linha in file_ler:
         if (f"|{receita}|") in linha:
             linha_separada = linha.strip().split("|")
-            pais = input("Digite o novo nome do país da receita: ")
-            nome = input("Digite o novo nome da receita: ")
-            preparo = input("Digite o novo preparo e os ingredientes da receita: ")
+            pais = input("Digite o novo nome do país da receita: ").lower()
+            nome = input("Digite o novo nome da receita: ").lower()
+            preparo = input("Digite o novo preparo e os ingredientes da receita: ").lower()
             if pais:
                 linha_separada[0] = pais
             if nome:
