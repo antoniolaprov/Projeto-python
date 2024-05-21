@@ -23,6 +23,6 @@ Remover> Remove do banco de dados do programa alguma receita adicionada anterior
 Editar> Será solicitado o nome da receita,já cadastrada no programa , em seguida será perguntado o novo país, nome da receita e preparo com ingredientes. Se o usuário não deseja alterar algum item em específico, deverá apertar a tecla ENTER para continuar com o já existente.
  Voltar> Para retornar ao menu
 
-![image]("FLUXOGRAMA-PROJETO-PYTHON.png")
+![image](FLUXOGRAMA-PROJETO-PYTHON.png)
 
 
